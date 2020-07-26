@@ -15,7 +15,7 @@ Tip: Open Console: `Ctrl+Shift+J`
 2. https://www.freecodecamp.org/
 3. https://codepen.io/ (code playground)
 
-Comments:
+### Comments:
 
 ```js
 // in-line comment
