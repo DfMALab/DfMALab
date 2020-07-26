@@ -1498,8 +1498,8 @@ class Book {
     this._author = updatedAuthor;
   }
 }
-
-
+```	
+```js
 function makeClass() {
   class Thermostat {
     constructor(temp) {
