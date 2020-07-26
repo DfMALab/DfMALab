@@ -1464,7 +1464,8 @@ class SpaceShuttle {
 var Zeus = new SpaceShuttle('Jupiter');
 
 console.log(Zeus.targetPlanet);
-
+```
+```js
 function makeClass() {
   class vegetable {
     constructor(name) {
