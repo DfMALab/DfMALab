@@ -106,7 +106,7 @@ var myName = "Ehsan"
 var myName = 'Ehsan'
 ```
 
-### Escaping Literal Quotes in Storings:
+### Escaping Literal Quotes in Strings:
 
 ```js
 var myStr = "I am a \"double quoted\" string inside \"double quotes\""
